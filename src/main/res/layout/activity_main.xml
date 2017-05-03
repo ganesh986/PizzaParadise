@@ -65,7 +65,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:layout_marginStart="18dp"
-
+                android:autoLink = "phone"
                 android:drawableStart="@drawable/ic_call"
                 android:drawableTint="@color/colorAccent"
                 android:text="@string/contact_number"
